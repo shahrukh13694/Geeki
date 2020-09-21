@@ -1,7 +1,8 @@
 Application Name: Geeki.
 
+Created using plain JavaScript. 
+
 Application created by: Shahrukh Bhaidani.
-Student ID: 218519473.
 
 Application overview:
   Geeki is a mobile gaming application developed to enhance and test the knowledge of the users around tools and hardware used in different domains.
