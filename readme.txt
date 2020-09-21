@@ -1,5 +1,7 @@
 Application Name: Geeki.
 
+Created using plain JavaScript. 
+
 Application created by: Shahrukh Bhaidani.
 
 Application overview:
