@@ -1,0 +1,158 @@
+Name, Image URL, Author URL, License
+
+computer and electronics:-
+  basic:
+    keyboard.png, https://pixabay.com/vectors/keyboard-electronic-computer-311803/, NA, CC0
+    mouse.png, https://pixabay.com/vectors/mouse-computer-hardware-input-160032/, OpenClipart-Vectors, CC0
+    monitor.png, https://pixabay.com/vectors/monitor-screen-flat-lcd-black-32743/, Clker-Free-Vector-Images, CC0
+    telephone.png, https://pixabay.com/photos/phone-old-1955-telephone-handset-2476595/, Momentmal, CC0
+    printer.png, https://pixabay.com/vectors/printer-copier-modern-office-1293116/, OpenClipart-Vectors, CC0
+    scanner.png, https://pixabay.com/vectors/scanner-digital-scanner-computer-146465/, OpenClipart-Vectors, CC0
+    pen_drive.png, https://pixabay.com/vectors/flash-drive-pen-drive-usb-computer-161921/, OpenClipart-Vectors, CC0
+    headphones.png, https://pixabay.com/vectors/headphone-headset-music-audio-159569/, OpenClipart-Vectors, CC0
+    usb.png, https://pixabay.com/vectors/usb-cable-cable-connect-mini-usb-154767/, OpenClipart-Vectors, CC0
+    cd.png, https://pixabay.com/vectors/dvd-cd-rom-compact-disc-cd-digital-152917/, OpenClipart-Vectors, CC0
+    sd_card.png, https://pixabay.com/vectors/memory-card-chip-sd-card-storage-1718591/, Josy_Dom_Alexis, CC0
+    cpu.png, https://pixabay.com/vectors/computer-cpu-desktop-office-work-156768/, OpenClipart-Vectors, CC0
+    webcam.png, https://pixabay.com/vectors/webcam-camera-chat-video-web-153319/, OpenClipart-Vectors,CC0
+    projector.png, https://pixabay.com/photos/business-computer-conference-20031/, PublicDomainPictures, CC0
+    router.png, https://pixabay.com/vectors/router-wireless-network-connection-157597/, OpenClipart-Vectors,CC0
+
+  intermediate:
+    hub.png, https://pixabay.com/vectors/computer-hub-network-server-switch-159835/, OpenClipart-Vectors,CC0
+    hdmi.png, https://pixabay.com/photos/hdmi-connector-cable-plug-2202226/, WikimediaImages, CC0
+    ethernet.png, https://pixabay.com/photos/ethernet-data-internet-network-1302083/, ElasticComputeFarm, CC0
+    vga.png, https://pixabay.com/photos/vga-cable-plug-computer-technology-2202321/, WikimediaImages, CC0
+    resistor.png, https://pixabay.com/vectors/resistor-resistance-electronics-32290/, Clker-Free-Vector-Images, CC0
+    capacitor.png, https://pixabay.com/vectors/capacitor-equipment-electronic-1714934/, sinisamaric1, CC0
+    led.png, https://pixabay.com/vectors/led-led-lamps-light-red-2023979/, OpenClipart-Vectors, CC0
+    transistor.png, https://pixabay.com/vectors/transistor-electronics-science-24529/, Clker-Free-Vector-Images, CC0
+    intergrated_circuit, https://pixabay.com/vectors/chip-computer-technology-circuit-308574/, Clker-Free-Vector-Images, CC0
+    soldering-iron.png, https://pixabay.com/vectors/solder-iron-circuit-soldering-28886/, Clker-Free-Vector-Images, CC0
+    multimeter.png, https://pixabay.com/vectors/device-digital-electric-electronics-1298711/, OpenClipart-Vectors, CC0
+    oscilloscope.png, https://pixabay.com/vectors/wave-length-oscillograph-304930/, Clker-Free-Vector-Images, CC0
+    segment_display.png, https://pixabay.com/vectors/electronic-display-eight-led-40627/, Clker-Free-Vector-Images, CC0
+    alligator-clip.png, https://pixabay.com/vectors/alligator-clip-alligator-clamp-1699967/, kritsadaj, CC0
+    circuit-switch.png, https://pixabay.com/vectors/calliper-electronics-tester-40382/, Clker-Free-Vector-Images, CC0
+    motherboard.png, https://pixabay.com/photos/motherboard-electronics-chips-pc-2202269/, WikimediaImages, CC0
+
+
+  advanced:
+    processor.png, https://pixabay.com/photos/cpu-processor-macro-pen-pin-564771/, blickpixel, CC0
+    power-supply-unit.png, https://free-images.com/display/power150wsupply.html, Wikimedia, public domain
+    hard-drive.png, https://pixabay.com/vectors/hard-disk-storage-computer-159264/, OpenClipart-Vectors, CC0
+    video-card.png, https://pixabay.com/photos/nvidia-video-card-2202279/, WikimediaImages, CC0
+    network-card.png, https://free-images.com/display/gb_network_pci_card.html, Wikimedia, public domain
+    sata.png, https://pixabay.com/photos/sata-cable-sata-connection-computer-57291/, Picdream,CC0
+    atx-cable.png, https://pixabay.com/photos/atx-black-cables-computers-87974/, byrev, CC0
+    fuse.png, https://pixabay.com/vectors/fuse-amperes-amps-148413/, OpenClipart-Vectors, CC0
+    transformer.png, https://pixabay.com/photos/transformer-power-station-power-line-493717/, 422737, CC0
+    circuit-breaker, https://free-images.com/display/protector_permanentes.html, Wikimedia, public domain
+
+medical:-
+  basic:
+    weighing_scale.png, https://pixabay.com/photos/bathroom-scale-horizontal-weight-1149263/, kalhh, CC0
+    thermometer.png, https://pixabay.com/vectors/clinical-thermometer-fever-153666/, OpenClipart-Vectors,CC0
+    pipette_dropper.png, https://pixabay.com/vectors/pipette-dropper-science-medicine-297210/, Clker-Free-Vector-Images, CC0
+    walker.png, https://pixabay.com/photos/walker-assistance-senior-elderly-1082410/, Dotsinmycoffee, CC0
+    syringe.png, https://pixabay.com/illustrations/syringe-shot-needle-vaccination-1884787/, qimono, CC0
+    gas-cylinder.png, https://pixabay.com/vectors/gas-bottle-pressure-cylinder-argon-154770/, OpenClipart-Vectors, CC0
+    wheel-chair.png, https://pixabay.com/vectors/wheelchair-chair-silhouette-wheel-2873064/, mohamed_hassan, CC0
+    crutch.png, https://pixabay.com/illustrations/crutch-support-medical-care-health-2717745/, BedexpStock, CC0
+    inhaler.png, https://pixabay.com/photos/asthma-inhaler-medicine-asthmatic-938695/, debbienews, CC0
+    capsules.png, https://pixabay.com/illustrations/medicine-pills-nutrient-additives-1015642/, 3dman_eu,CC0
+    tablets.png, https://pixabay.com/photos/medical-treatment-pill-capsule-3308108/, 1966666, CC0
+    band-aid.png, https://pixabay.com/vectors/band-aid-first-aids-injury-24298/, Clker-Free-Vector-Images, CC0
+    first-aid-kit.png, https://pixabay.com/photos/first-aid-kit-help-association-case-62639/, Hans, CC0
+    surgical-scissors.png, https://pixabay.com/photos/steel-black-and-white-bw-care-3309870/, rawpixel,CC0
+    gloves.png, https://pixabay.com/photos/rubber-gloves-gloves-pink-hanging-512027/, Counselling, CC0
+    oxygen-mask.png, https://pixabay.com/vectors/emergency-mask-airplane-emergency-159701/, OpenClipart-Vectors, CC0
+    test-tube.png, https://pixabay.com/vectors/test-tube-container-chemistry-576792/, OpenClipart-Vectors, CC0
+
+  intermediate:
+    stethoscope.png, https://pixabay.com/vectors/diagnostics-stethoscope-doctor-161140/, OpenClipart-Vectors, CC0
+    reflexhammer.png, https://free-images.com/display/reflexhammer_dejerine.html, Wikimedia, public domain
+    catheter.png, https://free-images.com/display/urinary_catheters_05.html, Wikimedia, CC0
+    centrifuge.png, https://pixabay.com/photos/centrifuge-doctor-3291253/, Alberto2018, CC0
+    scalpel.png, https://pixabay.com/vectors/scalpel-tool-green-grey-surgery-40318/, Clker-Free-Vector-Images, CC0
+    hearing-aid.png, https://pixabay.com/photos/hand-hearing-aid-deafness-listen-287292/, kalhh, CC0
+    oximeter.png, https://free-images.com/display/pulox_pulse_oximeter.html, Wikimedia, CC0
+    microscope.png, https://pixabay.com/vectors/microscope-science-magnify-149816/, OpenClipart-Vectors, CC0
+    glucose-meter.png, https://free-images.com/display/device_to_check_for_1.html, Wikimedia, CC0
+    funnel.png, https://pixabay.com/vectors/funnel-blue-flow-cone-liquid-38036/, Clker-Free-Vector-Images, CC0
+    beaker.png, https://pixabay.com/vectors/beaker-chemistry-liquid-blue-37673/, Clker-Free-Vector-Images, CC0
+    suture.png, https://free-images.com/display/polyglycolic_acid_suture_pga.html, WikimediaImages, public domain
+    dental-drill, https://free-images.com/display/dental_drill_bearings_new.html, WikimediaImages, CC0
+    mouth-mirror.png, https://pixabay.com/photos/alveolar-mirror-dental-2650334/, NakWon, CC0
+    dental-probe. png, https://free-images.com/display/dental_probe_png.html, Wpclipart, public domain
+    x-ray-machine.png, https://pixabay.com/photos/x-ray-machine-x-ray-medical-527618/, jaytaix, CC0
+
+  advanced:
+    autoclave.png, https://free-images.com/display/autoclave_4210.html, Wikimedia, public domain
+    defibrillator.png, https://pixabay.com/photos/semi-automatic-aed-defibrillator-1322250/, aedwallcabinets, CC0
+    cannula.png, https://free-images.com/display/intravenous_cannula_03.html, Wikimedia, CC0
+    dialyser.png, https://free-images.com/display/dialysegerat_5008.html, Wikimedia, public domain
+    ecg.png, https://pixabay.com/photos/equipment-hospital-ecg-3089883/, Bokskapet, CC0
+    ultrasound.png, https://pixabay.com/photos/hospital-clinic-medical-health-699417/, falco, CC0
+    ophthalmoscope.png, https://free-images.com/display/ophthalmoscope_otoscope08.html, Wikimedia, public domain
+    otoscope.png, https://free-images.com/display/ophthalmoscope_otoscope08.html, Wikimedia, public domain
+    ventilator.png, https://free-images.com/display/vip_bird2.html, Wikimedia, public domain
+    proctoscope.png, https://free-images.com/display/anoscope_proctoscope_rectoscope_it.html, Wikimedia, public domain
+    rectoscope.png, https://free-images.com/display/anoscope_proctoscope_rectoscope_it.html, Wikimedia, public domain
+    sphygmomanometer.png, https://pixabay.com/photos/sphygmomanometer-blood-pressure-915652/, soc7, CC0
+    mri.png, https://pixabay.com/photos/mri-magnetic-resonance-imaging-2813899/, jarmoluk, CC0
+    intrauterine-device.png, https://free-images.com/display/multiload_cu_250.html, Wikimedia, public domain
+    pacemaker.png, https://pixabay.com/photos/cardiac-pacemaker-device-technology-795105/, falco, CC0
+
+mechanical and automobile:
+  basic:
+    hammer.png, https://pixabay.com/vectors/hammer-tool-metal-hit-break-33617/, Clker-Free-Vector-Images, CC0
+    engine.png, https://pixabay.com/photos/car-engine-motor-engine-vehicle-1738366/, paulbr75, CC0
+    spanner.png, https://pixabay.com/vectors/spanner-wrench-tool-hardware-metal-33816/, Clker-Free-Vector-Images, CC0
+    nut.png, https://pixabay.com/vectors/nut-engineering-fasteners-151716/, OpenClipart-Vectors, CC0
+    screwdriver.png, https://pixabay.com/vectors/screwdriver-starhead-driver-tighten-33634/, Clker-Free-Vector-Images, CC0
+    plier.png, https://pixabay.com/vectors/pliers-tools-forceps-tongs-pincers-148861/, OpenClipart-Vectors, CC0
+    crowbar.png, https://pixabay.com/vectors/crowbar-jemmy-pry-prybar-pinch-bar-153511/, OpenClipart-Vectors, CC0
+    power-drill.png, https://pixabay.com/vectors/power-drill-drill-hammer-drill-154903/, OpenClipart-Vectors, CC0
+    pulley.png, https://pixabay.com/photos/role-deflection-pulley-elevator-2698100/, Momentmal, CC0
+    saw.png, https://pixabay.com/vectors/saw-wood-cut-tools-hand-tool-24260/, Clker-Free-Vector-Images, CC0
+    mallet.png, https://pixabay.com/vectors/mallet-wooden-tool-hammer-gavel-117187/, OpenClipart-Vectors, CC0
+    axle.png, https://free-images.com/display/axle_psf_png.html, Wikimedia, public domain
+    battery.png, https://pixabay.com/photos/battery-motorcycle-battery-2870614/, Capri23auto, CC0
+    headlight.png, https://pixabay.com/photos/headlamp-lincoln-navigator-white-2770367/, ArtisticOperations, CC0
+    taillight.png, https://pixabay.com/photos/brake-light-spotlight-bmw-333979/, goiwara, CC0
+    screw.png, https://pixabay.com/photos/cross-screw-woodscrew-metal-iron-273655/, Silberfuchs, CC0
+    wiper.png, https://pixabay.com/vectors/wiper-windscreen-wiper-157131/, OpenClipart-Vectors, CC0
+
+  intermediate:
+    blowtorch.png, https://free-images.com/display/aa_propaneblowlamp_00.html, Wikimedia, public domain
+    ratchet.png, https://pixabay.com/vectors/ratchets-repair-spanners-automotive-153098/, OpenClipart-Vectors, CC0
+    jackscrew.png, https://free-images.com/display/jackscrew.html, Wikimedia, public domain
+    fuel-gauge.png, https://pixabay.com/vectors/fuel-meter-meter-indication-end-311685/, Clker-Free-Vector-Images, CC0
+    cogwheel.png, https://pixabay.com/vectors/cogwheel-gear-gearwheel-cog-145804/, OpenClipart-Vectors, CC0
+    jackhammer.png, https://pixabay.com/vectors/jackhammer-air-hammer-rock-hammer-156668/, OpenClipart-Vectors, CC0
+    speedometer.png, https://pixabay.com/vectors/speedometer-kilometers-dashboard-309118/, Clker-Free-Vector-Images, CC0
+    odometer.png, https://free-images.com/display/r129_facelift_difference3.html, Wikimedia, public domain
+    steering-wheel.png, https://pixabay.com/vectors/car-driving-wheel-steering-wheel-160115/, OpenClipart-Vectors, CC0
+    handbrake.png, https://free-images.com/display/parkingbrakehandle.html, Wikimedia, public domain
+    exhaust-pipe.png, https://pixabay.com/photos/car-exhaust-pipe-ecology-2970171/, kaunish-sar, CC0
+    gear.png, https://pixabay.com/photos/auto-the-gear-lever-2702297/, ElvisCZ, CC0
+    chisel.png, https://pixabay.com/vectors/gouge-chisel-wood-carpenter-tool-29753/, Clker-Free-Vector-Images, CC0
+    wheel-cover.png, https://pixabay.com/photos/hub-cap-wheel-trim-plate-wheel-cover-100454/, Hans, CC0
+    spirit-level.png, https://pixabay.com/vectors/construction-jims-card-site-1296138/, OpenClipart-Vectors, CC0
+
+
+  advanced:
+    conveyor-belt.png, https://pixabay.com/vectors/conveyor-belt-rolling-moving-38245/, Clker-Free-Vector-Images, CC0
+    spark-plug.png, https://pixabay.com/vectors/spark-plug-sparking-plub-32083/, Clker-Free-Vector-Images, CC0
+    piston.png, https://pixabay.com/illustrations/piston-engines-motor-motorcycle-3614177/, tagechos, CC0
+    crankshaft.png, https://free-images.com/display/slnsw_9865_closeup_six.html, Wikimedia, public domain
+    connecting-rod.png, https://pixabay.com/photos/technology-industry-mechanical-3536350/, RonaldPlett, CC0
+    camshaft.png, https://free-images.com/display/camshaft.html, Wikimedia, public domain
+    shock-absorber.png, https://pixabay.com/illustrations/shock-absorber-hydraulic-mechanical-3605971/, tagechos, CC0
+    lathe-machine.png, https://pixabay.com/vectors/lathe-machine-wood-tool-carpenter-29284/, Clker-Free-Vector-Images, CC0
+    milling-machine.png, https://pixabay.com/photos/milling-machining-industry-1151358/, gefrorene_wand, CC0
+    ball-bearing.png, https://pixabay.com/vectors/bearing-ball-bearing-metal-round-1293386/, OpenClipart-Vectors, CC0
+    carburetor.png, https://pixabay.com/photos/carburetor-motorcycle-carburetor-2701475/, Capri23auto, CC0
+    radiator.png, https://pixabay.com/illustrations/radiator-heating-house-apartment-3324048/, Painter06, CC0
+    tachometer.png, https://pixabay.com/photos/dashboard-design-dial-gauge-1866466/, Pexels, CC0

@@ -1,0 +1,72 @@
+week 4:
+- Created gameData.js, main.js, ui.js
+- Added 1 sample of items in each domain
+- Created the first screen and domain Selection
+- Basic data structure of the application is created
+- Still working on accessing the data from the data structure
+- Screen to select domain and level
+
+week 5:
+- Read the extra sections of theory workbook
+- User can select domain and level using buttons
+- Researched on how a random question can be selected from mainData along with options
+- Still working on randomly selecting a question and question format.
+- displaying question in different formats
+
+week 6:
+- All question formats functions create basic layout, without any css
+- Able to randomly select options for the question
+- Randomly generate question number, question format
+- Basic CSS for the first page
+- Still working on selecting and validating answers
+- what to do when submit button is pressed
+
+11/05/2019:
+- Check Answer logic complete to see if the selected answer is correct or not
+- Correct/Incorrect page is displayed according to answer
+- Next question button working to display next question
+- view description button working with a modal
+- Added descriptionPageUi.js file to accommodate all functions relating to description page modal.
+- Next increment, work on permanent storage of completed questions
+- Next increment, work on CSS and design and complete all design and animations
+- Next increment, work on creating sidebar menu along with about page
+
+12/05/2019:
+- Logic to store the gameProgress in localStorage complete
+- Game progress is stored and retained even if the browser closes
+- window.myQuestionsCompleted created
+- Found more images to be added in the questions list
+- some basic CSS added
+- Still working on creating a sidebar menu
+- layout and css for whole application
+
+13/05/2019:
+- Tested the working of the application
+- Modified the checkAnswer logic, localStorage logic
+- Added logic to display completed and total question in full game, current domain and current level
+- Modified flow of functions after submit button is pressed
+- Added some more images to the list
+- Still working on About page
+- CSS for whole application
+- Other documents for submission
+
+15/05/2019:
+- Added CSS to the full application
+- Corrected logic for calculating remaining questions
+- Tested the application
+- Added animations to some elements
+- Still working on About page
+- other documents for submission
+
+16/05/2019:
+- Created a modal for about page
+- created readme.txt
+- created a video for demonstration
+- compressed images to fit into the upload criteria
+- Divided the code in logical files
+- wrote detailed comments for each function
+- Still working on marking justification
+
+17/05/2019:
+- Video compression complete
+- Marking justification complete
